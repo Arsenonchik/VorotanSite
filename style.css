@@ -1,0 +1,23 @@
+.name{
+    text-align: center;
+}
+#item{
+    background-color: aliceblue;
+
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#item:hover{
+    background-color: antiquewhite;
+}
+#item2{
+    background-color: aliceblue;
+
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#item2:hover{
+    background-color: antiquewhite;
+}
+.footer{
+    text-align-last: end;
+    
+}
